@@ -1,4 +1,4 @@
-# 3Scale Workshop
+# 3Scale Basic Config Workshop
 
 
 This workshop introduces you to some basic configuration of 3scale briefly touching on the main areas of functionality. We will loosely base it on a very basic POC we would normally roll out. 
@@ -34,11 +34,12 @@ The slides are written in [RevealJS](http://lab.hakim.se/reveal-js/#/)/[Hyla](ht
 
 The labs are written in [Gitbook](https://www.gitbook.com) format (asciidoc) and can be viewed online or in offline book (pdf, epub, mobi) format. 
 
-* [Lab 00](labs/00.md) - Signup to 3scale 
-* [Lab 01](labs/01.md) - Login & Integrate an API endpoint.
-* [Lab 02](labs/02.md) - Access Control and Analytics 
-* [Lab 03](labs/03.md) - Policy Enforcement
-* [Lab 04](labs/04.md) - Swagger & Basic Developer Portal Configuration
+* [3Scale Basic Config Workshop Gitbook](https://www.gitbook.com/book/hucmaggie/3scale-workhop-basic/details)
+    * [Lab 00](labs/00.md) - Signup to 3scale 
+    * [Lab 01](labs/01.md) - Login & Integrate an API endpoint.
+    * [Lab 02](labs/02.md) - Access Control and Analytics 
+    * [Lab 03](labs/03.md) - Policy Enforcement
+    * [Lab 04](labs/04.md) - Swagger & Basic Developer Portal Configuration
 
 ## Contributing
 
