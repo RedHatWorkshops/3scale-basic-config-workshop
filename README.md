@@ -35,7 +35,7 @@ The slides are written in [RevealJS](http://lab.hakim.se/reveal-js/#/)/[Hyla](ht
 The labs are written in [Gitbook](https://www.gitbook.com) format (asciidoc) and can be viewed online or in offline book (pdf, epub, mobi) format. 
 
 * [3Scale Basic Config Workshop Labs Gitbook](https://www.gitbook.com/book/hucmaggie/3scale-workhop-basic/details)
-* [3Scale Basic Config Workshop Labs Github] (https://github.com/hucmaggie/3scale-basic-config-workshop-labs)
+* [3Scale Basic Config Workshop Labs Github](https://github.com/hucmaggie/3scale-basic-config-workshop-labs)
 
 ## Contributing
 
